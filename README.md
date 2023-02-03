@@ -3,16 +3,19 @@
 A large sample of cities across the world were evaluated to determine trends in temperature, humidity, wind speed, and cloudiness compared to the latitude.
 
 All cities analyzed are represented below. The larger circles mean higher humidities.
+
 ![bokeh_plot (1)](https://user-images.githubusercontent.com/116215793/216673726-af6db377-262e-4d00-8a9f-8353261a661d.png)
 
 ## **Temperature**
 
 Temperatures are higher towards the equator, with signifcantly lower temperatures in the Northern Hemisphere as compared to the Southern Hempisphere.
+
 ![Fig1](https://user-images.githubusercontent.com/116215793/216672250-a65730e6-b994-4103-a06c-e7e927a4803f.png)
 
 ## **Humidity**
 
 Humidity trends higher as the latitude goes up, meaning that the humidity tends to be higher further north. There is a large grouping of areas just north of the Equator, however, that have low humidity levels. 
+
 ![Fig2](https://user-images.githubusercontent.com/116215793/216672719-2e6b9d22-6ae0-4527-8397-4024d90e2852.png)
 
 
@@ -21,11 +24,13 @@ Humidity trends higher as the latitude goes up, meaning that the humidity tends 
 ## **Cloudiness**
 
 The amount of cloud cover increases slightly as one moves north, although the correlation in the data is weak-moderate. There are clusters of locations where the cloudiness is at 100% and clusters where the cloudiness is at 0%. These areas do not seem to be correlated directly to latitude, as some of the areas even overlap each other.
+
 ![Fig3](https://user-images.githubusercontent.com/116215793/216673071-2780e216-d79d-4f4c-a334-3773dbe3ac4d.png)
 
 ## **Wind Speed**
 
 There is very weak - weak correlation between Wind Speed and latitudes. This evaluation should not be used to predict wind speeds.
+
 ![Fig4](https://user-images.githubusercontent.com/116215793/216673175-93cc801f-a372-451a-a1a5-199e47536fa1.png)
 
 
